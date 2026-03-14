@@ -1,0 +1,5 @@
+{
+  "name": "Image Loading",
+  "description": "An AI image generation loader interface with dynamic aspect ratios and animated progress borders.",
+  "requestFramePermissions": []
+}
